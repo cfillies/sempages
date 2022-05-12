@@ -1,0 +1,356 @@
+{ "stencil": "epc",
+  "masters": [
+  {
+    "name": "Function",
+    "key": "Function",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Function.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Event",
+    "key": "Event",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Event.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Comment",
+    "key": "Comment",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Comment.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "UML Class",
+    "key": "UML_Class",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/UML_Class.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Service",
+    "key": "Service",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Service.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Informationsträger",
+    "key": "Informationsträger",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Informationsträger.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Wissenskategorie",
+    "key": "Wissenskategorie",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Wissenskategorie.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "OrgUnit",
+    "key": "OrgUnit",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/OrgUnit.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Wertschöpfungskette1",
+    "key": "Wertschöpfungskette1",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Wertschöpfungskette1.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Wertschöpfungskette2",
+    "key": "Wertschöpfungskette2",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Wertschöpfungskette2.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Stelle",
+    "key": "Stelle",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Stelle.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Allgemeine Ressource",
+    "key": "Allgemeine_Ressource",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Allgemeine_Ressource.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Package",
+    "key": "Package",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Package.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Organisationseinheit",
+    "key": "Organisationseinheit",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Organisationseinheit.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Instance",
+    "key": "Instance",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Instance.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Valuechain1",
+    "key": "Valuechain1",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Valuechain1.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Valuechain2",
+    "key": "Valuechain2",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Valuechain2.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Informationen/Material",
+    "key": "Informationen_Material",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Informationen_Material.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "AND",
+    "key": "AND",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/AND.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "OR",
+    "key": "OR",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/OR.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "XOR",
+    "key": "XOR",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/XOR.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Prozesspfad",
+    "key": "Prozesspfad",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Prozesspfad.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Anwendungssystemtyp",
+    "key": "Anwendungssystemtyp",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Anwendungssystemtyp.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Personentyp",
+    "key": "Personentyp",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Personentyp.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Breakpoint",
+    "key": "Breakpoint",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Breakpoint.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Human Resource",
+    "key": "Human_Resource",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Human_Resource.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Fachbegriff",
+    "key": "Fachbegriff",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Fachbegriff.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Person",
+    "key": "Person",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Person.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Entitytyp",
+    "key": "Entitytyp",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Entitytyp.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Cluster/Datenmodell",
+    "key": "Cluster_Datenmodell",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Cluster_Datenmodell.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Class",
+    "key": "Class",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Class.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Risiko",
+    "key": "Risiko",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Risiko.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Kennzahl",
+    "key": "Kennzahl",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Kennzahl.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "HumanResource",
+    "key": "HumanResource",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/HumanResource.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Leistung",
+    "key": "Leistung",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Leistung.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Control",
+    "key": "Control",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Control.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Schnittstellenbeschreibung",
+    "key": "Schnittstellenbeschreibung",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Schnittstellenbeschreibung.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Dokument",
+    "key": "Dokument",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Dokument.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Messpunkt",
+    "key": "Messpunkt",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Messpunkt.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Systemfunktion",
+    "key": "Systemfunktion",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Systemfunktion.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Verbundschnittstelle",
+    "key": "Verbundschnittstelle",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Verbundschnittstelle.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "ERM-Attribut",
+    "key": "ERM-Attribut",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/ERM-Attribut.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Modultyp",
+    "key": "Modultyp",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Modultyp.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Maske",
+    "key": "Maske",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-masters/Maske.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  }
+]
+}

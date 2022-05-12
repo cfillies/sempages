@@ -1,0 +1,205 @@
+{
+  "stencil": "cit_intelliForm_dialog",
+  "masters": [
+    {
+      "name": "Class",
+      "key": "Class",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Class.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Instance",
+      "key": "Instance",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Instance.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Comment",
+      "key": "Comment",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Comment.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "UML Class",
+      "key": "UML_Class",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/UML_Class.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "BooleanField",
+      "key": "BooleanField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/BooleanField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ChoiceField",
+      "key": "ChoiceField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/ChoiceField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ComputedField",
+      "key": "ComputedField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/ComputedField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "TextField",
+      "key": "TextField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/TextField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "DateField",
+      "key": "DateField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/DateField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "NumberField",
+      "key": "NumberField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/NumberField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "InfoBox",
+      "key": "InfoBox",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/InfoBox.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "CurrencyField",
+      "key": "CurrencyField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/CurrencyField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "NumberUnitField",
+      "key": "NumberUnitField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/NumberUnitField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "TextArea",
+      "key": "TextArea",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/TextArea.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Rule",
+      "key": "Rule",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Rule.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "FieldSet",
+      "key": "FieldSet",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/FieldSet.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "FileField",
+      "key": "FileField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/FileField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "WebserviceMethod",
+      "key": "WebserviceMethod",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/WebserviceMethod.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "XmlResource",
+      "key": "XmlResource",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/XmlResource.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "IdField",
+      "key": "IdField",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/IdField.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "SubFieldSet",
+      "key": "SubFieldSet",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/SubFieldSet.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ExternalComponent",
+      "key": "ExternalComponent",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/ExternalComponent.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Data Graphic",
+      "key": "Data_Graphic",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Data_Graphic.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Flags",
+      "key": "Flags",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Flags.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Colored shapes",
+      "key": "Colored_shapes",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/cit_intelliForm_dialog-masters/Colored_shapes.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    }
+  ]
+}

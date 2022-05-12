@@ -1,0 +1,353 @@
+{
+  "ObjectType": "ObjectBase",
+  "ShowDiagrams": "True",
+  "ShowGenericDiagrams": "True",
+  "EditDiagramType": "True",
+  "ShowObjects": "True",
+  "EditObjects": "True",
+  "ShowRelations": "True",
+  "EditRelations": "True",
+  "GUILanguage": "German",
+  "ShowAttributes": "True",
+  "EditAttributes": "True",
+  "ShowDatatypes": "True",
+  "EditDatatypes": "True",
+  "ShowMethods": "True",
+  "ShowStates": "True",
+  "currentnsp": "German",
+  "CheckSaveXML": "True",
+  "forder": "0",
+  "Version": "Version 1.2.5",
+  "Template": "semtalk.vst",
+  "OpenStencils": "1",
+  "bottomuprelations": "1",
+  "TimeSaved": "06.03.2002 22:18:42",
+  "notstr": "NOT ",
+  "MXG_0": "PG14R3JhcGhNb2RlbD4NCiAgPHJvb3Q+DQogICAgPERpYWdyYW0gaHJlZj0iaHR0cDovL3d3dy5qZ3JhcGguY29tLyIgaWQ9IjAiIGxhYmVsPSJodHRwOi8vd3d3LnNlbXRhbGsuY29tL214ZyNGaXJzdFBhZ2UiIGRpYWdpZD0iMTkiPg0KICAgICAgPG14Q2VsbCAvPg0KICAgIDwvRGlhZ3JhbT4NCiAgICA8TGF5ZXIgaWQ9IjEiIGxhYmVsPSJEZWZhdWx0IExheWVyIj4NCiAgICAgIDxteENlbGwgcGFyZW50PSIwIiAvPg0KICAgIDwvTGF5ZXI+DQogIDwvcm9vdD4NCjwvbXhHcmFwaE1vZGVsPg==",
+  "MXG_Page0": "FirstPage",
+  "MaxID": "27",
+  "classes": [
+    {
+      "ObjectType": "Class",
+      "name": "SemTalkHidden",
+      "ID": "13",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "ReadOnly": "1",
+      "ShowLabel": "1",
+      "SystemClass": "True",
+      "Hide": "1"
+    },
+    {
+      "ObjectType": "Class",
+      "name": "SemTalkLanguage",
+      "ID": "16",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "ReadOnly": "1",
+      "ShowLabel": "1",
+      "SystemClass": "True",
+      "Hide": "1"
+    }
+  ],
+  "assoctypes": [
+    {
+      "ObjectType": "RelationType",
+      "name": "subClassOf_",
+      "ID": "20",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv subClassOf_",
+      "type": "subClassOf_"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "HiddenRelation",
+      "ID": "21",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv HiddenRelation",
+      "type": "SystemRelation"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "has Attachment",
+      "ID": "22",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv has Attachment",
+      "type": "SystemRelation"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "definitionOf",
+      "ID": "0",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv definitionOf",
+      "type": "SystemRelation"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "hasDomain",
+      "ID": "0",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv hasDomain",
+      "type": "SystemRelation"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "hasRange",
+      "ID": "0",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv hasRange",
+      "type": "SystemRelation"
+    },
+    {
+      "ObjectType": "RelationType",
+      "name": "instanceOf",
+      "ID": "0",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "invname": "Inv instanceOf",
+      "type": "SystemRelation"
+    }
+  ],
+  "diagtypes": [
+    {
+      "ObjectType": "DiagramType",
+      "name": "Generic",
+      "ID": "23",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1",
+      "type": "Instance",
+      "doubleclick": "Edit"
+    }
+  ],
+  "instances": [
+    {
+      "ObjectType": "Instance",
+      "class": "SemTalkLanguage",
+      "name": "German",
+      "ID": "1257",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "attributes": [
+        {
+          "ObjectType": "Attribute",
+          "name": "ISO",
+          "defaultvalue": "1031"
+        }
+      ],
+      "ShowLabel": "1",
+      "synonyms": [
+        {
+          "ObjectType": "Synonym",
+          "name": "Deutsch",
+          "namespace": "German",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "German",
+          "namespace": "English",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "Alemán",
+          "namespace": "Spanish",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "German",
+          "namespace": "Japanese",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "Немецкий",
+          "namespace": "Russian",
+          "inverse": "0",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "ObjectType": "Instance",
+      "class": "SemTalkHidden",
+      "name": "SemTalkNot",
+      "ID": "14",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "ReadOnly": "1",
+      "ShowLabel": "1",
+      "synonyms": [
+        {
+          "ObjectType": "Synonym",
+          "name": "nicht",
+          "namespace": "German",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "not",
+          "namespace": "English",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "no",
+          "namespace": "Spanish",
+          "inverse": "0",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "ObjectType": "Instance",
+      "class": "SemTalkHidden",
+      "name": "SemTalkIs",
+      "ID": "15",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "ReadOnly": "1",
+      "ShowLabel": "1"
+    }
+  ],
+  "diags": [
+    {
+      "ObjectType": "Diagram",
+      "id": 19,
+      "vid": 0,
+      "svg": "",
+      "type": "Instance",
+      "class": "Generic",
+      "name": "http://www.semtalk.com/mxg#FirstPage",
+      "ID": "0",
+      "namespace": "http://www.semtalk.com/mxg",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "attributes": [
+        {
+          "ObjectType": "Attribute",
+          "name": "mxg",
+          "defaultvalue": "MXG_0"
+        }
+      ],
+      "ShowLabel": "1"
+    }
+  ],
+  "methodtypes": [
+    {
+      "ObjectType": "MethodType",
+      "name": "has",
+      "ID": "18",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "Christian Fillies",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "Christian Fillies",
+      "ReadOnly": "1",
+      "ShowLabel": "1",
+      "synonyms": [
+        {
+          "ObjectType": "Synonym",
+          "name": "has",
+          "namespace": "English",
+          "inverse": "0",
+          "comment": ""
+        },
+        {
+          "ObjectType": "Synonym",
+          "name": "hat",
+          "namespace": "German",
+          "inverse": "0",
+          "comment": ""
+        }
+      ]
+    }
+  ],
+  "attrtypes": [
+    {
+      "ObjectType": "AttributeType",
+      "name": "ISO",
+      "ID": "25",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1"
+    },
+    {
+      "ObjectType": "AttributeType",
+      "name": "mxg",
+      "ID": "27",
+      "namespace": "",
+      "created": "05.01.2021 10:03:45",
+      "createdBy": "user",
+      "changed": "05.01.2021 10:03:45",
+      "changedBy": "user",
+      "ShowLabel": "1"
+    }
+  ]
+}

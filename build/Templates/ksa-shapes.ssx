@@ -1,0 +1,156 @@
+{ "stencil": "ksa",
+  "masters": [
+  {
+    "name": "Class",
+    "key": "Class",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Class.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Comment",
+    "key": "Comment",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Comment.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Entscheidung",
+    "key": "Entscheidung",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Entscheidung.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Instance",
+    "key": "Instance",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Instance.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "UML Class",
+    "key": "UML_Class",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/UML_Class.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "EntryPoint",
+    "key": "EntryPoint",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/EntryPoint.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "ExitPoint",
+    "key": "ExitPoint",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/ExitPoint.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Activity2",
+    "key": "Activity2",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Activity2.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Activity",
+    "key": "Activity",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Activity.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Buffer",
+    "key": "Buffer",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Buffer.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Manager",
+    "key": "Manager",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Manager.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Person",
+    "key": "Person",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Person.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "PhysResource",
+    "key": "PhysResource",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/PhysResource.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Activity3",
+    "key": "Activity3",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Activity3.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Service",
+    "key": "Service",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Service.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "OrgUnit",
+    "key": "OrgUnit",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/OrgUnit.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Position",
+    "key": "Position",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Position.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "Breakpoint",
+    "key": "Breakpoint",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/Breakpoint.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  },
+  {
+    "name": "HumanResource",
+    "key": "HumanResource",
+    "logo": "https://semtalkportal45.azurewebsites.net/stencils/ksa-masters/HumanResource.svg",
+    "width": 100,
+    "height": 80,
+    "type": "image"
+  }
+]
+}

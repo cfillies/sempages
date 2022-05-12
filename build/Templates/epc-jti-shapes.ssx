@@ -1,0 +1,573 @@
+{
+  "stencil": "epc-jti",
+  "masters": [
+    {
+      "name": "Function",
+      "key": "Function",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Function.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Event",
+      "key": "Event",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Event.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Comment",
+      "key": "Comment",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Comment.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "UML Class",
+      "key": "UML_Class",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/UML_Class.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Informationsträger",
+      "key": "Informationsträger",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Informationsträger.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Service",
+      "key": "Service",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Service.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Wissenskategorie",
+      "key": "Wissenskategorie",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Wissenskategorie.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "OrgUnit",
+      "key": "OrgUnit",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/OrgUnit.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Person",
+      "key": "Person",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Person.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Wertschöpfungskette1",
+      "key": "Wertschöpfungskette1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Wertschöpfungskette1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Wertschöpfungskette2",
+      "key": "Wertschöpfungskette2",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Wertschöpfungskette2.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Stelle",
+      "key": "Stelle",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Stelle.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Entitytyp",
+      "key": "Entitytyp",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Entitytyp.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Class",
+      "key": "Class",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Class.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Cluster/Datenmodell",
+      "key": "Cluster_Datenmodell",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Cluster_Datenmodell.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Allgemeine Ressource",
+      "key": "Allgemeine_Ressource",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Allgemeine_Ressource.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Package",
+      "key": "Package",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Package.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Organisationseinheit",
+      "key": "Organisationseinheit",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Organisationseinheit.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Instance",
+      "key": "Instance",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Instance.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Valuechain1",
+      "key": "Valuechain1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Valuechain1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Valuechain2",
+      "key": "Valuechain2",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Valuechain2.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Informationen/Material",
+      "key": "Informationen_Material",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Informationen_Material.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "AND",
+      "key": "AND",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/AND.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "OR",
+      "key": "OR",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/OR.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "XOR",
+      "key": "XOR",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/XOR.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Prozesspfad",
+      "key": "Prozesspfad",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Prozesspfad.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Anwendungssystemtyp",
+      "key": "Anwendungssystemtyp",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Anwendungssystemtyp.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Personentyp",
+      "key": "Personentyp",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Personentyp.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Breakpoint",
+      "key": "Breakpoint",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Breakpoint.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Human Resource",
+      "key": "Human_Resource",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Human_Resource.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Fachbegriff",
+      "key": "Fachbegriff",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Fachbegriff.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Functional band",
+      "key": "Functional_band",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Functional_band.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Created Date1",
+      "key": "Created_Date1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Created_Date1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Status1",
+      "key": "Status1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Status1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "BSC1",
+      "key": "BSC1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/BSC1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "BaseName1",
+      "key": "BaseName1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/BaseName1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Control",
+      "key": "Control",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Control.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "SRTTemplate",
+      "key": "SRTTemplate",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/SRTTemplate.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Document",
+      "key": "Document",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Document.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Legal Entity",
+      "key": "Legal_Entity",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Legal_Entity.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "FunctionTR",
+      "key": "FunctionTR",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/FunctionTR.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Modified1",
+      "key": "Modified1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Modified1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Appoval1",
+      "key": "Appoval1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Appoval1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Version1",
+      "key": "Version1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Version1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Title1",
+      "key": "Title1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Title1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "LongTitle",
+      "key": "LongTitle",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/LongTitle.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Wertschöpfungskette",
+      "key": "Wertschöpfungskette",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Wertschöpfungskette.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Process lv3",
+      "key": "Process_lv3",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Process_lv3.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Process lv4",
+      "key": "Process_lv4",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Process_lv4.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ExFunction",
+      "key": "ExFunction",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ExFunction.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ExFunctionTR",
+      "key": "ExFunctionTR",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ExFunctionTR.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "FunctionWD",
+      "key": "FunctionWD",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/FunctionWD.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ExFunctionWD",
+      "key": "ExFunctionWD",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ExFunctionWD.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "FunctionTRWD",
+      "key": "FunctionTRWD",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/FunctionTRWD.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ExFunctionTRWD",
+      "key": "ExFunctionTRWD",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ExFunctionTRWD.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Auto Control",
+      "key": "Auto_Control",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Auto_Control.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "User Manual",
+      "key": "User_Manual",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/User_Manual.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "System",
+      "key": "System",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/System.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "GQM validator1",
+      "key": "GQM_validator1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/GQM_validator1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "non-BSC Process Path",
+      "key": "non-BSC_Process_Path",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/non-BSC_Process_Path.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Owner3",
+      "key": "Owner3",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Owner3.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Origin1",
+      "key": "Origin1",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Origin1.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ProcessName",
+      "key": "ProcessName",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ProcessName.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Owner4",
+      "key": "Owner4",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Owner4.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "BSC_x",
+      "key": "BSC_x",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/BSC_x.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "BaseName_x",
+      "key": "BaseName_x",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/BaseName_x.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Origin1_x",
+      "key": "Origin1_x",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Origin1_x.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ProcessName_x",
+      "key": "ProcessName_x",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ProcessName_x.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "ProcessName2",
+      "key": "ProcessName2",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/ProcessName2.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Horizontal holder",
+      "key": "Horizontal_holder",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Horizontal_holder.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    },
+    {
+      "name": "Owner2",
+      "key": "Owner2",
+      "logo": "https://semtalkportal45.azurewebsites.net/stencils/epc-jti-masters/Owner2.svg",
+      "width": 100,
+      "height": 80,
+      "type": "image"
+    }
+  ]
+}
